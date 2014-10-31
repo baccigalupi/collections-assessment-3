@@ -1,3 +1,19 @@
+# It works.
+
+# Need each of these assessments in its own repo, otherwise our teaching life in harder
+# Watch indentation and space, super important for communication
+# Everything in a hash should be indented by two spaces.
+# Curly braces for hashes should start on a new line, with their contents indented by two spaces.
+
+[
+  {
+    first_name: "John",
+    last_name: "Foley",
+    email: "john@gschool.it",
+    class: "Beginning snark"
+  }
+]
+
 student_data = [{first_name: "John",      last_name: "Foley",       email: "john@gschool.it",       class: "Beginning snark"},
                 {first_name: "Sylwester", last_name: "Kelsey",      email: "sellie@gmail.com",      class: "Ruby Immersive"},
                 {first_name: "Timothy",   last_name: "Rama",        email: "tim.rama@gmail.com",    class: "Ruby Immersive"},
